@@ -30,9 +30,9 @@ a{text-decoration: none;}
     flex-wrap: wrap;
 }
 #user_select .cities button{
-    background-color: #e01fc0;
+    background-color: #f4788d;
     padding: 8px;
-    border: 1px solid #e01fc0;
+    border: 1px solid #f4788d;
     border-radius: 4px;
     color: #fff;
     margin: 0 5px 10px;
@@ -41,14 +41,14 @@ a{text-decoration: none;}
 #user_select .cities button:hover,
 #user_select .cities button:active{
     background-color: #fff;
-    color: #e01fc0;
+    color: #f4788d;
 }
 
 #user_select .search{
     max-width: 400px;
     width: 100%;
     margin: 0 auto 20px;
-    border: 1px solid #e01fc0;
+    border: 1px solid #f4788d;
     border-radius: 4px;
     display: flex;
     flex-wrap: wrap;
@@ -59,15 +59,15 @@ a{text-decoration: none;}
     width: calc(100% - 120px); height: 40px;
     border: none;
     padding: 0 10px;
-    color: #e01fc0;
-    outline-color: #e01fc0;
+    color: #f4788d;
+    outline-color: #f4788d;
 }
 #user_select .search button{
     width: 120px; height: 40px;
     border: none;
-    background-color: #e01fc0;
+    background-color: #f4788d;
     color: #fff;
-    outline-color: #e01fc0;
+    outline-color: #f4788d;
     cursor: pointer;
 }
 
@@ -131,7 +131,7 @@ a{text-decoration: none;}
     font-size: 18px;
     /* color: #1a4cd8; */
     /* color: #796aff; */
-    color: #d81eb9;
+    color: #f4788d;
 }
 #weather ul li .bottom > div p{line-height: 1.8;}
 
